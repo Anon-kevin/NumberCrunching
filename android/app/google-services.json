@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723507647357",
+    "firebase_url": "https://number-crunching-4a800.firebaseio.com",
+    "project_id": "number-crunching-4a800",
+    "storage_bucket": "number-crunching-4a800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723507647357:android:3abfb49b3da955f8037214",
+        "android_client_info": {
+          "package_name": "com.PSE_App.numbercrunching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723507647357-sulmli0eo1m90c4qktntif6m5cumkki0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.PSE_App.numbercrunching",
+            "certificate_hash": "abebe46f0f3822c7cbad815bec7d0bb82cd8e3d2"
+          }
+        },
+        {
+          "client_id": "723507647357-64q0buhq1hcg9sr8a1emor81l76r2hal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg0ndYyPfsQ6RDHEwYqgMRhj_HLp9Y6ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723507647357-64q0buhq1hcg9sr8a1emor81l76r2hal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/quanan/Downloads/Math-Solver-App-master-4/build/url_launcher/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/quanan/.gradle/caches/transforms-2/files-2.1/cc678b9f7f456c4212d9f7b4eefcd121/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/quanan/Downloads/Math-Solver-App-master-4/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/quanan/.gradle/caches/transforms-2/files-2.1/cc678b9f7f456c4212d9f7b4eefcd121/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/quanan/Downloads/Math-Solver-App-master-4/build/url_launcher/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/quanan/.gradle/caches/transforms-2/files-2.1/cc678b9f7f456c4212d9f7b4eefcd121/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/quanan/Downloads/Math-Solver-App-master-4/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/quanan/.gradle/caches/transforms-2/files-2.1/cc678b9f7f456c4212d9f7b4eefcd121/core-1.1.0/res/drawable/notification_bg.xml"
+    }
+]

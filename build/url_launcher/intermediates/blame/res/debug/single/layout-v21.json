@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/quanan/Downloads/Math-Solver-App-master-4/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/quanan/.gradle/caches/transforms-2/files-2.1/cc678b9f7f456c4212d9f7b4eefcd121/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/quanan/Downloads/Math-Solver-App-master-4/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/quanan/.gradle/caches/transforms-2/files-2.1/cc678b9f7f456c4212d9f7b4eefcd121/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/quanan/Downloads/Math-Solver-App-master-4/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/quanan/.gradle/caches/transforms-2/files-2.1/cc678b9f7f456c4212d9f7b4eefcd121/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/quanan/Downloads/Math-Solver-App-master-4/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/quanan/.gradle/caches/transforms-2/files-2.1/cc678b9f7f456c4212d9f7b4eefcd121/core-1.1.0/res/layout-v21/notification_action.xml"
+    }
+]
