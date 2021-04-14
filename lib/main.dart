@@ -28,7 +28,7 @@ class NumberCrunching extends StatelessWidget {
         '/solver/merge': (context) => SortingInputNumVariable(type: 2),
         '/sorting': (context) => CoursePage(title: 'Sorting'),
       },
-      title: "aaaaa",
+      title: "SORTTTT",
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primaryColor: appBarColor,
